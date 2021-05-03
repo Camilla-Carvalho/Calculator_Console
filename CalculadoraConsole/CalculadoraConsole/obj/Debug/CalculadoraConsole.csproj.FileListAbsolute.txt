@@ -1,0 +1,7 @@
+C:\Users\camilla_c\Documents\Visual Studio\CalculadoraConsole\CalculadoraConsole\bin\Debug\CalculadoraConsole.exe.config
+C:\Users\camilla_c\Documents\Visual Studio\CalculadoraConsole\CalculadoraConsole\bin\Debug\CalculadoraConsole.exe
+C:\Users\camilla_c\Documents\Visual Studio\CalculadoraConsole\CalculadoraConsole\bin\Debug\CalculadoraConsole.pdb
+C:\Users\camilla_c\Documents\Visual Studio\CalculadoraConsole\CalculadoraConsole\obj\Debug\CalculadoraConsole.csprojAssemblyReference.cache
+C:\Users\camilla_c\Documents\Visual Studio\CalculadoraConsole\CalculadoraConsole\obj\Debug\CalculadoraConsole.csproj.CoreCompileInputs.cache
+C:\Users\camilla_c\Documents\Visual Studio\CalculadoraConsole\CalculadoraConsole\obj\Debug\CalculadoraConsole.exe
+C:\Users\camilla_c\Documents\Visual Studio\CalculadoraConsole\CalculadoraConsole\obj\Debug\CalculadoraConsole.pdb
